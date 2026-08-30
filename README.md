@@ -31,6 +31,9 @@ Todas las visualizaciones de rotación usan un esquema de formato condicional de
 **Nota de diseño sobre los filtros:** en las páginas con slicer (Rotación y Perfil Demográfico), los colores de alerta comparan siempre contra el promedio general de la empresa, no contra el grupo actualmente filtrado. Esto es una decisión de diseño intencional: al aplicar un filtro muy específico, algunos grupos pueden quedar con pocos empleados, por lo que los promedios resultantes deben interpretarse con cautela.
 
 Archivo: `dashboard_callcenter.pbix`
+<img width="967" height="539" alt="Screenshot 2026-08-24 155213" src="https://github.com/user-attachments/assets/b2e3100f-58f4-45b1-988f-632d0d699b29" />
+<img width="964" height="536" alt="Screenshot 2026-08-24 155309" src="https://github.com/user-attachments/assets/edbdfa8a-3bc2-4353-903f-f776e696754b" />
+<img width="974" height="544" alt="Screenshot 2026-08-24 155039" src="https://github.com/user-attachments/assets/4212b787-ee0c-42d0-bef1-113f7ac54088" />
 
 ## Hallazgos clave
 
@@ -63,7 +66,7 @@ Este proyecto utilizó un dataset adaptado de IBM (no datos reales de un call ce
 
 ## Nota personal
 
-*[Espacio reservado para agregar una reflexión basada en mi experiencia como agente y supervisor de call center — próximamente]*
+*Durante mi desempeño como supervisor, tuve muchas rotaciones de parte de agentes que eran estudiantes activos y, en su gran mayoría, fueron a causa del cambio de horario en la universidad. Otros simplemente no podían con la carga académica y el estrés laboral.*
 
 ## Cómo ejecutar el proyecto
 
